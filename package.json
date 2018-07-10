@@ -1,0 +1,17 @@
+{
+  "name": "tylergarynet",
+  "version": "1.0.0",
+  "description": "Personal Website for Tyler Gary",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tyler Gary",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
